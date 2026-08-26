@@ -2,7 +2,11 @@
 
 Projeto de Business Intelligence desenvolvido para analisar o desempenho global de vendas de videogames por período, região, plataforma, gênero e publisher.
 
-![Dashboard de Vendas de Videogames](imagens/dashboard-vendas-videogames.png)
+<a href="imagens/dashboard-vendas-videogames.png">
+  <img src="imagens/dashboard-vendas-videogames.png" alt="Dashboard de Vendas de Videogames" width="100%">
+</a>
+
+*Clique na imagem para visualizar o dashboard em tamanho completo.*
 
 ## Dashboard interativo
 
