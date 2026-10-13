@@ -2,8 +2,8 @@
 
 Análise do mercado de videogames em mídia física com **16.596 títulos** que venderam mais de 100 mil cópias. O projeto mostra como o mercado evoluiu, de quanto ele depende de poucos sucessos e como as preferências mudam entre regiões, plataformas e publishers.
 
-<a href="imagens/dashboard-vendas-videogames.png">
-  <img src="imagens/dashboard-vendas-videogames.png" alt="Dashboard de Vendas de Videogames" width="100%">
+<a href="imagens/Dashboard_Vendas_de_Videogames.png">
+  <img src="imagens/Dashboard_Vendas_de_Videogames.png" alt="Dashboard de Vendas de Videogames" width="100%">
 </a>
 
 *Clique na imagem para ver o dashboard em tamanho completo.*
@@ -119,7 +119,7 @@ dashboard-looker/
 ├── notebooks/
 │   └── analise_vendas_videogames.ipynb
 ├── imagens/
-│   ├── dashboard-vendas-videogames.png
+│   ├── Dashboard_Vendas_de_Videogames.png
 │   └── graficos/                     # gráficos exportados pelo notebook
 ├── relatorio/
 │   └── dashboard-vendas-videogames.pdf
