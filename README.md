@@ -144,5 +144,5 @@ O notebook lê `dados/vgsales_original.csv`, aplica o tratamento, gera `dados/vg
 
 ## Autor
 
-**Leandro Gomes**
-[GitHub](https://github.com/leandroanalytics) · [LinkedIn](https://www.linkedin.com/in/leandroanalytics) · [Dashboard interativo](https://lookerstudio.google.com/reporting/03f64a8d-c3bc-4b8b-a985-d6d23563d9c2)
+**Leandro Gomes** · Analista de Dados<br>
+[GitHub](https://github.com/leandroanalytics) · [LinkedIn](https://www.linkedin.com/in/leandroanalytics)
